@@ -1,8 +1,9 @@
 Metadata-Version: 2.1
 Name: fixer-demo
-Version: 0.2
+Version: 0.2.1
 Summary: Fixer service demo package
 Home-page: #
 Author: Mohammad
 Author-email: Mohammad@gmail.com
 License: MIT
+Requires-Dist: requests
